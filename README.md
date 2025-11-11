@@ -1,4 +1,4 @@
-# 🍱 Ajojing Food Order — Secure Distributed System (UTS Project)
+# 🍱 Ajojing Food Order — Secure Distributed System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
